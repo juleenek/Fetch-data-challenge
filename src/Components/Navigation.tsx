@@ -1,11 +1,14 @@
-type Props = {};
+type Props = {
+  page: string;
+  setPage: React.Dispatch<React.SetStateAction<string>>;
+};
 
-export const Navigation: React.FC<Props> = () => {
+export const Navigation: React.FC<Props> = ({page, setPage}) => {
   return (
     <nav>
-      <button>Users</button>
-      <button >Posts</button>
-      <button>Comments</button>
+      <button onClick={() => setPage('users')}>Users</button>
+      <button onClick={() => setPage('posts')}>Posts</button>
+      <button onClick={() => setPage('comments')}>Comments</button>
     </nav>
   );
 };
