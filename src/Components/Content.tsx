@@ -1,7 +1,7 @@
 import {User} from '../Types/User'
 import {Post} from '../Types/Post'
 import {Comment} from '../Types/Comment'
-import { ItemList } from './ItemList';
+import { ItemList } from './Item/ItemList';
 import React from 'react';
 
 type Props  = {

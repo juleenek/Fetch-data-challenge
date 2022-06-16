@@ -1,6 +1,6 @@
-import {User} from '../Types/User'
-import {Post} from '../Types/Post'
-import {Comment} from '../Types/Comment'
+import {User} from '../../Types/User'
+import {Post} from '../../Types/Post'
+import {Comment} from '../../Types/Comment'
 import { LineItem } from './LineItem';
 
 type Props  = {
