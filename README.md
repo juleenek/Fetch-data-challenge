@@ -1,3 +1,5 @@
+![](https://github.com/metaksa1/Fetch-data-challenge/blob/master/public/table.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
