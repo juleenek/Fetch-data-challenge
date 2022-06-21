@@ -1,5 +1,11 @@
 ![](https://github.com/metaksa1/Fetch-data-challenge/blob/master/public/table.gif)
 
+## Resources:
+
+- [Users](https://jsonplaceholder.typicode.com/users)
+- [Posts](https://jsonplaceholder.typicode.com/posts)
+- [Comments](https://jsonplaceholder.typicode.com/comments)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
