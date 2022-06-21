@@ -34,7 +34,7 @@ nav > button:hover {
 }
 
 nav > button:active {
-  border: 10px solid rgb(255, 252, 55);
+  border: 10px solid rgb(167, 167, 167);
 }
 
 .item {
